@@ -2,8 +2,8 @@
 % If you only have 2 group members, leave the last space blank
 %
 %%%%%
-%%%%% NAME: 
-%%%%% NAME:
+%%%%% NAME: Subha Tasnim
+%%%%% NAME: Bemenet Bekele
 %%%%% NAME:
 %
 % Add the required rules in the corresponding sections. 
