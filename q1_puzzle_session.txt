@@ -2,8 +2,8 @@
 % If you only have 2 group members, leave the last space blank
 %
 %%%%%
-%%%%% NAME: 
-%%%%% NAME:
+%%%%% NAME: Subha Tasnim
+%%%%% NAME: Bemenet Bekele
 %%%%% NAME:
 %
 % Add the required rules in the corresponding sections. 
@@ -15,7 +15,37 @@
 %%%%% SECTION: puzzleGenerateAndTestSession
 %%%%% Put your session for generate and test below
 
+?- Start is cputime, solve_and_print, End is cputime, Time is End - Start.
+   308
+  * 15
+------
++ 1540
+  308.
+------
+  4620
 
+Start = 0.17
+End = 2.31
+Time = 2.14
+Yes (2.14s cpu, solution 1, maybe more) ? ;
+
+No (8.26s cpu)
 
 %%%%% SECTION: puzzleInterleavingSession
 %%%%% Put your session for generate and test below
+
+?- Start is cputime, solve_and_print, End is cputime, Time is End - Start.
+   308
+  * 15
+------
++ 1540
+  308.
+------
+  4620
+
+Start = 0.18
+End = 0.18
+Time = 0.0
+Yes (0.00s cpu, solution 1, maybe more) ? ;
+
+No (0.01s cpu)
